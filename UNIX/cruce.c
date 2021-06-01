@@ -1,6 +1,3 @@
-//PRIMERA PRÁCTICA EVALUABLE - SSOOII 2021 - PB2
-//ÁNGEL PICADO CUADRADO Y DAVID SALVADOR AGUADO
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <signal.h>
